@@ -8,14 +8,14 @@ Department of Electrical Engineering
 
 ## ⚡ About Me
 
-Motivated Electrical Engineering student at NIT Surat with a CGPA of 8.69, specializing in power systems, embedded technologies, and EV solutions. Hands-on experience in MATLAB, Arduino, and hardware prototyping, with a successful internship at the Bureau of Indian Standards. Certified in EV Mobility and Battery Systems, and a proactive leader as NSS Convenor. Passionate about innovation in sustainable energy and smart electrical systems.
+An Electrical Engineering student at NIT Surat with a CGPA of 8.69, specializing in power systems, embedded technologies, and EV solutions. Hands-on experience in MATLAB,Simulink and Arduino with a successful internship at the Bureau of Indian Standards. Certified in EV Mobility and Battery Systems, and a proactive leader as NSS Convenor. Passionate about innovation in sustainable energy and smart electrical systems.
 ---
 
 ## 🛠️ Skills
 
 - **Programming:** C, MATLAB, SIMULINK, ETAP, 8051 Microcontroller Programming
 - **Web Technologies:** HTML, CSS (Basics)
-- **Hardware & Simulation:** Arduino, Circuit Design
+- **Hardware & Simulation:** Arduino, Circuit Design 
 
 ---
 
